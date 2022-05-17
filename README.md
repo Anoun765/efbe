@@ -10,3 +10,7 @@ $ cd efbe
 $ python -m pip install requests bs4 futures
 $ ./efbe
 ````
+`warning`
+````bash
+Pastikan bahasa yg di gunakan adalah bahasa Indonesia
+````
